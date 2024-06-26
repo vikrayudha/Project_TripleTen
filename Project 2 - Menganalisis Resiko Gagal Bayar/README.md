@@ -23,4 +23,4 @@ Proyek ini terdiri dari tiga tahap:
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Gagal Bayar Nasabah](https://github.com/) | Mengetahui seberapa besar resiko `gagal bayar` nasabah berdasarkan kriteria: `tingkat pendapatan`, `status keluarga`, `tujuan cicilan` dan `jumlah anak` untuk menilai calon nasabah. | *pandas*, *numpy* |
+| [Analisis Gagal Bayar Nasabah](https://github.com/) | Mengetahui seberapa besar resiko `gagal bayar` nasabah berdasarkan kriteria: `tingkat pendapatan`, `status keluarga`, `tujuan cicilan` dan `jumlah anak` untuk menilai calon nasabah. | *pandas*, *seaborn*, *matplotlib* |
