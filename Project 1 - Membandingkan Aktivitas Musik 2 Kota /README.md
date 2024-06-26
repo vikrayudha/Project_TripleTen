@@ -1,5 +1,5 @@
 ### Deskripsi
-Dalam proyek kali ini, kamu akan membandingkan preferensi musik dari pendengar di kota Springfield dan Shelbyville. Kamu akan meninjau data sungguhan dari Y.Music untuk menguji beberapa hipotesis di bawah ini dan membandingkan perilaku pengguna pada kedua kota.
+Dalam proyek kali ini, akan membandingkan preferensi musik dari pendengar di kota Springfield dan Shelbyville. Akan ditinjau data dari Y.Music untuk menguji beberapa hipotesis di bawah ini dan membandingkan perilaku pengguna pada kedua kota.
 
 ### Tujuan: 
 Menguji tiga hipotesis:
