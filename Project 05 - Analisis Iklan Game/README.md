@@ -20,4 +20,4 @@ Proyek ini terdiri dari tiga tahap:
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Iklan Platform Game](https://github.com/) | Menganalisis Data Penjualan game berdasarkan : `platform`, `genre`, `critic_score`, `user_score`, dan `rating`. | *pandas*, *seaborn*, *matplotlib*, *numpy*, *scipy*, *math*|
+| [Analisis Iklan Platform Game](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2005%20-%20Analisis%20Iklan%20Game/Project%205.ipynb) | Menganalisis Data Penjualan game berdasarkan : `platform`, `genre`, `critic_score`, `user_score`, dan `rating`. | *pandas*, *seaborn*, *matplotlib*, *numpy*, *scipy*, *math*|
