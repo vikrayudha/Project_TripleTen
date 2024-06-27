@@ -19,4 +19,4 @@ Proyek ini terdiri dari tiga tahap:
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Membandingkan aktifitas pendengar musik kota Springfield dan Shelbyville](https://github.com/) | Mengetahui perbandingan aktivitas pendengar musik di 2 kota berdasarkan kriteria: `day`, `genre`, dan `city`. | *pandas* |
+| [Membandingkan aktifitas pendengar musik kota Springfield dan Shelbyville]([https://github.com/](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2001%20-%20Membandingkan%20Aktivitas%20Musik%202%20Kota/Project_1.ipynb)) | Mengetahui perbandingan aktivitas pendengar musik di 2 kota berdasarkan kriteria: `day`, `genre`, dan `city`. | *pandas* |
