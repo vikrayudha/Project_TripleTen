@@ -18,4 +18,4 @@ File path: `/datasets/users_behavior.csv`.
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Perilaku Pengguna Operator](https://github.com/) | Menganalisis perilaku pengguna provider Megaline berdasarkan : `calls`, `minutes`, `messages`, `mb_usage`, dan `is_ultimate`. | *pandas*, *numpy*, *scikit-learn*|
+| [Analisis Perilaku Pengguna Operator](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2007%20-%20Prediksi%20Model%20Paket%20Seluler/Project_7.ipynb) | Menganalisis perilaku pengguna provider Megaline berdasarkan : `calls`, `minutes`, `messages`, `mb_usage`, dan `is_ultimate`. | *pandas*, *numpy*, *scikit-learn*|
