@@ -16,5 +16,5 @@ File path: `/datasets/imdb_reviews.tsv`.
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Prediksi Komentar Negatif](https://github.com/) | Model prediksi sentimen menggunakan *natural language processing* pada model-model `machine learning`. Tokenisasi dan lematisasi dilakukan menggunakan modul *spaCy*, *nltk*, dan *BERT*. Beberapa `model` yang diujikan `dummy classifier`, `logistic regression` dan `lightGBM`. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, *re*, *tqdm*, *nltk*, *spaCy*, *LightGBM*, *torch*, *transformers* |
+| [Analisis Prediksi Komentar Negatif](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2014%20-%20Memfilter%20dan%20Mengategorikan%20Ulasan%20Film/Project%2014%20(1).ipynb) | Model prediksi sentimen menggunakan *natural language processing* pada model-model `machine learning`. Tokenisasi dan lematisasi dilakukan menggunakan modul *spaCy*, *nltk*, dan *BERT*. Beberapa `model` yang diujikan `dummy classifier`, `logistic regression` dan `lightGBM`. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, *re*, *tqdm*, *nltk*, *spaCy*, *LightGBM*, *torch*, *transformers* |
 
