@@ -66,4 +66,4 @@ Instruksi Proyek
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Prediksi Kualitas Logam Emas](https://github.com/) | Memprediksi kualitas logam emas berdasarkan tahapan produksinya: `rougher`, `primary_cleaner`, `secondary_cleaner` dan `final`. | *pandas*, *seaborn*, *numpy*, *matplotlib*, *scikit-learn*|
+| [Prediksi Kualitas Logam Emas](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2010%20-%20Prediksi%20Kualitas%20Logam%20Emas/Project_10.ipynb) | Memprediksi kualitas logam emas berdasarkan tahapan produksinya: `rougher`, `primary_cleaner`, `secondary_cleaner` dan `final`. | *pandas*, *seaborn*, *numpy*, *matplotlib*, *scikit-learn*|
