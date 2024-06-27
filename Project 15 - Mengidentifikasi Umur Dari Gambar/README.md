@@ -13,4 +13,4 @@ Suatu `waralaba supermarket` bernama `Good Seed` ingin mengetahui apakah `Data S
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Visi Komputer Menggunakan ResNet50](https://github.com/) | Membuat model `deep learning - CNN` menggunakan `ResNet50` untuk menentukan `usia seseorang` berdasarkan foto. Metrik untuk evaluasi model diantaranya metrik `loss` adalah `MSE`, dan metrik `scoring` adalah `MAE`. Skor untuk `MAE-validation` harus dibawah `8`. | *pandas*, *matplotlib*, *seaborn*, *tensorflow*, *keras*, *ResNet50* |
+| [Identifikasi Umur Pelanggan Berdasarkan Gambar](https://github.com/) | Membuat model `deep learning - CNN` menggunakan `ResNet50` untuk menentukan `usia seseorang` berdasarkan foto. Metrik untuk evaluasi model diantaranya metrik `loss` adalah `MSE`, dan metrik `scoring` adalah `MAE`. Skor untuk `MAE-validation` harus dibawah `8`. | *pandas*, *matplotlib*, *seaborn*, *tensorflow*, *keras*, *ResNet50* |
