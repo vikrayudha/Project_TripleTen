@@ -21,4 +21,4 @@ Data yang butuhkan bisa ditemukan di file `/datasets/Churn.csv`.
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Churn Nasabah Bank](https://github.com/) | Memprediksi apakah seorang nasabah akan segera meninggalkan bank atau tidak berdasarkan : `creditscore`, `tenure`, `isactivemember` dan `exited`. | *pandas*, *seaborn*, *numpy*, *scikit-learn*|
+| [Analisis Churn Nasabah Bank](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2008%20-%20Prediksi%20Churn%20Nasabah%20Bank/Project_8.ipynb)| Memprediksi apakah seorang nasabah akan segera meninggalkan bank atau tidak berdasarkan : `creditscore`, `tenure`, `isactivemember` dan `exited`. | *pandas*, *seaborn*, *numpy*, *scikit-learn*|
