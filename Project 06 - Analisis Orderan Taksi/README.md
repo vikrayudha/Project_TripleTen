@@ -22,4 +22,4 @@ Database yang memuat informasi perjalanan taksi di Chicago:
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Perilaku Konsumen Taksi](https://github.com/) | Menganalisis preferensi penumpang terhadap perjalnan berdasarkan : `dropoff_location_name`, `trips_amount`, dan `weather_conditions`. | *pandas*, *numpy*, *scipy*, *math*|
+| [Analisis Perilaku Konsumen Taksi](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2006%20-%20Analisis%20Orderan%20Taksi/Project_6.ipynb) | Menganalisis preferensi penumpang terhadap perjalnan berdasarkan : `dropoff_location_name`, `trips_amount`, dan `weather_conditions`. | *pandas*, *numpy*, *scipy*, *math*|
