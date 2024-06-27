@@ -19,5 +19,5 @@ Data tersimpan di file `taxi.csv`. Jumlah pesanan di kolom `num_orders`.
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Prediksi Pesanan Taksi Bandara](https://github.com) | Perbandingan `model machine learning` untuk memprediksi `jumlah pesanan` pada perusahaan taksi menggunakan `dataset seri waktu` untuk mendapatkan skor `RMSE` yang `tidak lebih besar dari 48` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *statsmodels* |
+| [Prediksi Pesanan Taksi Bandara](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2013%20-%20Prediksi%20Pesanan%20Taksi%20Bandara/Project_13.ipynb) | Perbandingan `model machine learning` untuk memprediksi `jumlah pesanan` pada perusahaan taksi menggunakan `dataset seri waktu` untuk mendapatkan skor `RMSE` yang `tidak lebih besar dari 48` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *statsmodels* |
 
