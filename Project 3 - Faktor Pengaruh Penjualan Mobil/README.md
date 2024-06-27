@@ -12,7 +12,8 @@ Menguji beberapa hipotesis:
 Data disimpan dalam file `'/datasets/vehicles_us.csv'`. Tidak ada informasi terkait kualitas data tersebut, karena itu diperlukan pemeriksaan terlebih dahulu sebelum menguji hipotesis.
 
 Pertama-tama, kita akan mengevaluasi kualitas data dan melihat apakah masalahnya signifikan. Kemudian, kita akan mengatasi masalah yang paling serius.
- 
+
+### Tahapan
 Proyek ini terdiri dari beberapa tahap:
  1. Pra-pemrosesan data
  2. Memperbaiki kualitas data
