@@ -17,4 +17,4 @@ Perusahaan asuransi bernama "Sure Tomorrow" ingin menyelesaikan beberapa masalah
    
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Prediksi Klaim Asuransi](https://github.com/) | Model prediksi `klaim asuransi` pada `perusahaan asuransi` menggunakan algoritma `k-nearest neighbor` dan `linear regression`. Pengaburan data (`data protection`) dilakukan untuk menjaga privasi klien jika terjadi kebocoran data. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |
+| [Prediksi Klaim Asuransi](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2011%20-%20Prediksi%20Klaim%20Asuransi/Project_11.ipynb) | Model prediksi `klaim asuransi` pada `perusahaan asuransi` menggunakan algoritma `k-nearest neighbor` dan `linear regression`. Pengaburan data (`data protection`) dilakukan untuk menjaga privasi klien jika terjadi kebocoran data. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |
