@@ -25,4 +25,4 @@ Beberapa model terkenal akan kita uji menggunakan dataset yang kita punya untuk 
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Model Prediksi Harga Mobil Menggunakan Boosting](https://github.com) | Perbandingan `model boosting` untuk memprediksi `harga mobil bekas` untuk mendapatkan skor `RMSE` dan `waktu komputasi` minimal | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *CatBoost* |
+| [Model Prediksi Harga Mobil Menggunakan Boosting](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2012%20-%20Prediksi%20Penjualan%20Mobil%20Bekas/Project_12.ipynb) | Perbandingan `model boosting` untuk memprediksi `harga mobil bekas` untuk mendapatkan skor `RMSE` dan `waktu komputasi` minimal | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *CatBoost* |
