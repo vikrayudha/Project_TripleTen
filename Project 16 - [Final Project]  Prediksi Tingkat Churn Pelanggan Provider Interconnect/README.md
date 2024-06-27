@@ -37,5 +37,5 @@ Model-model yang digunakan diantaranya: `Logistic Regression`, `Random Forest`,`
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Prediksi Churn Pelanggan Provider Interconnect](https://github.com/) | Model prediksi akan menganalisis tingkat churn pelanggan dengan menggunakan model `Logistic Regression`, `Random Forest`,`Gradient Boosting`, `Support Vektor Machine`, `Artificial Neural Network` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *tensorflow*, *joblib, *datetime* | 
+| [Analisis Prediksi Churn Pelanggan Provider Interconnect](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2016%20-%20%5BFinal%20Project%5D%20%20Prediksi%20Tingkat%20Churn%20Pelanggan%20Provider%20Interconnect/final_project_clean.ipynb) | Model prediksi akan menganalisis tingkat churn pelanggan dengan menggunakan model `Logistic Regression`, `Random Forest`,`Gradient Boosting`, `Support Vektor Machine`, `Artificial Neural Network` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *tensorflow*, *joblib, *datetime* | 
 
