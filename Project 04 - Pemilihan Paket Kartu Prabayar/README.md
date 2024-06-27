@@ -26,4 +26,4 @@ Proyek ini terdiri dari beberapa tahap:
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Pemilihan Kartu Prabayar](https://github.com/) | Menganalisis prilaku pengguna terhadap kedua paket prabayar berdasarkan kriteria: `calls`, `messages`, `internet`, dan  `user_amount`. | *pandas*, *seaborn*, *matplotlib*, *numpy*, *scipy*, *math*|
+| [Analisis Pemilihan Kartu Prabayar](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2004%20-%20Pemilihan%20Paket%20Kartu%20Prabayar/Project_4.ipynb) | Menganalisis prilaku pengguna terhadap kedua paket prabayar berdasarkan kriteria: `calls`, `messages`, `internet`, dan  `user_amount`. | *pandas*, *seaborn*, *matplotlib*, *numpy*, *scipy*, *math*|
