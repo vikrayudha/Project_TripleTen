@@ -24,4 +24,4 @@ Proyek ini terdiri dari beberapa tahap:
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Faktor Penjualan Mobil]([https://github.com/](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2003%20-%20Faktor%20Pengaruh%20Penjualan%20Mobil/Project%203%20ver.ipynb)) | Analisis faktor-faktor yang mempengaruhi harga penjualan mobil. Beberapa faktor diantaranya `model_year`, `model`, `condition`, `cylinders`, `fuel`, `odometer`, `transmission`, `type`, `paint_color`, `is_4wd`. | *pandas*, *seaborn* *matplotlib* *numpy* |
+| [Analisis Faktor Penjualan Mobil](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2003%20-%20Faktor%20Pengaruh%20Penjualan%20Mobil/Project%203%20ver.ipynb) | Analisis faktor-faktor yang mempengaruhi harga penjualan mobil. Beberapa faktor diantaranya `model_year`, `model`, `condition`, `cylinders`, `fuel`, `odometer`, `transmission`, `type`, `paint_color`, `is_4wd`. | *pandas*, *seaborn* *matplotlib* *numpy* |
