@@ -38,4 +38,4 @@ Setelah menganalisis risiko yang ada, hanya wilayah yang memiliki risiko kerugia
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Prediksi Pengembangan Lokasi Tambang](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2009%20-%20Prediksi%20Perkembangan%20Titik%20Tambang/Project_9.ipynb)) | Memprediksi lokasi untuk pengembangan titik lokasi tambang tidak berdasarkan lokasi : `geo0`, `geo1` dan `geo2`. | *pandas*, *seaborn*, *numpy*, *matplotlib*, *scikit-learn*|
+| [Prediksi Pengembangan Lokasi Tambang](https://github.com/vikrayudha/Project_TripleTen/blob/main/Project%2009%20-%20Prediksi%20Perkembangan%20Titik%20Tambang/Project_9.ipynb) | Memprediksi lokasi untuk pengembangan titik lokasi tambang tidak berdasarkan lokasi : `geo0`, `geo1` dan `geo2`. | *pandas*, *seaborn*, *numpy*, *matplotlib*, *scikit-learn*|
